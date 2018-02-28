@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 848B-9D99
+
+ Directory of C:\Users\asus\Desktop\gitproject
+
+02/28/2018  10:25 PM    <DIR>          .
+02/28/2018  10:25 PM    <DIR>          ..
+02/28/2018  10:25 PM                 0 example.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  143,276,670,976 bytes free
